@@ -1,0 +1,2 @@
+ErrorDocument 404 /error_proveedores/404.php
+ErrorDocument 403 /error_proveedores/403.php
